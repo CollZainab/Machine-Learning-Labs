@@ -1,0 +1,25 @@
+# Lab 2: Identifying ML Problems, Datasets, and Methodology
+
+## Dataset Summary
+The dataset used in this lab is a diabetes dataset. It contains tabular medical data with rows and columns. The features may include values such as glucose level, blood pressure, BMI, age, and other health-related measurements.
+
+## Machine Learning Problem
+This is a classification problem. The goal is to predict whether a patient has diabetes or not based on the given health features.
+
+## Target Variable
+The target variable is `Outcome`.
+
+## Methodology
+1. Select dataset
+2. Load dataset in Python
+3. Inspect shape, columns, and data types
+4. Preprocess data
+5. Split data into training and testing sets
+6. Train classification model
+7. Evaluate model performance
+8. Show results
+
+## Files
+- `diabetes.csv`: Dataset file
+- `lab2_diabetes.ipynb`: Jupyter Notebook
+- `methodology_diagram.png`: ML workflow diagram
