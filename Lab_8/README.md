@@ -12,4 +12,4 @@ This lab applies the K-Nearest Neighbors (KNN) algorithm using Python and Scikit
 
 ## Files
 - 02-K Nearest Neighbors Assignment.ipynb
-- Classified Data
+- KNN project Data
